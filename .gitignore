@@ -1,0 +1,6 @@
+.env
+docker-compose.yml
+
+
+/mysql
+/app/.pnpm-store/
